@@ -1,9 +1,9 @@
-// let nome = 'luiz gonzaga da costa souza neto'
-// let sobrenome = 'gonzaga'
+ let nome = 'luiz gonzaga da costa souza neto'
+ let sobrenome = 'gonzaga'
 
-// nome.concat(' ',sobrenome) // concatecar uma string
+ nome.concat(' ',sobrenome) // concatecar uma string
 
-// console.log(nome.split(","))
+ console.log(nome.split(","))
 
 function verificarPalindromo(string){
     if(!string) return
